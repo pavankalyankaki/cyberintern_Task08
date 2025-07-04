@@ -1,0 +1,36 @@
+Task-008
+
+**Working with VPNs**
+
+**What is a VPN?**
+A Virtual Private Network (VPN) creates a secure, encrypted connection between your device and a remote server, masking your real IP address and routing your internet traffic through an encrypted tunnel.
+
+**Key Benefits:**
+- **Privacy Protection**: Hides your real IP address and location
+- **Data Encryption**: Protects your data from interception on public networks
+- **Secure Communication**: Ensures safe browsing and data transmission
+- **Bypass Restrictions**: Access geo-blocked content and websites
+
+**How VPNs Work:**
+1. Install VPN client software
+2. Connect to a VPN server of your choice
+3. Your traffic gets encrypted and routed through the VPN server
+4. Websites see the VPN server's IP instead of yours
+
+**Common VPN Protocols:**
+- OpenVPN
+- WireGuard
+- IKEv2/IPSec
+- L2TP/IPSec
+
+**Limitations:**
+- Can slow down internet speed due to encryption overhead
+- Cannot guarantee complete anonymity
+- Dependence on VPN provider's privacy policies
+- Some websites may block VPN traffic
+- Free VPNs often have data limits and fewer server options
+
+**VPN vs Proxy:**
+While both hide your IP address, VPNs encrypt all your traffic and work system-wide, whereas proxies typically only work for specific applications and don't encrypt data.
+
+VPNs are essential tools for maintaining online privacy and security, especially when using public Wi-Fi networks or accessing sensitive information.
